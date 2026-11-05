@@ -4,5 +4,6 @@ year : 2026
 subject : git
 experiment : history audit and  accountability
 purpose : track and audit repository changes
+add laboratory status
 
 
