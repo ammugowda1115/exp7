@@ -1,0 +1,4 @@
+student name : Uma
+department : CSE
+year : 2026
+subject : git
